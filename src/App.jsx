@@ -3,8 +3,8 @@ import { useState } from "react"
 import confetti from "canvas-confetti"
 
 const TURNS = {
-  X : '❌',
-  O : '🏐'
+  X : 'X',
+  O : 'O'
 }
 
 const WINNER_COMBOS = [
